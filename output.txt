@@ -1,1 +1,1 @@
-Factorial of the number 4 is 24
+2 1 4 3 6 5 8 7 10 9 
