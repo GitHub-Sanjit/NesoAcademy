@@ -1,1 +1,1 @@
-Minimum value ont the array is: 3 and Maximum value is: 987
+3
