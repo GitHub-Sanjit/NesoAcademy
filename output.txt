@@ -1,2 +1,1 @@
-Elements in reverse order:
-4 9 7 5 3 
+10
